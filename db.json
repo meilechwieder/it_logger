@@ -1,0 +1,37 @@
+{
+  "logs": [
+    {
+      "message": "changed network card",
+      "tech": "John Doe",
+      "attention": false,
+      "date": "2020-04-22T02:42:45.429Z",
+      "id": 1
+    },
+    {
+      "message": "hard drive off",
+      "tech": "John Doe",
+      "attention": true,
+      "date": "2020-04-22T02:43:23.031Z",
+      "id": 2
+    },
+    {
+      "message": "olilkjoj;",
+      "tech": "Baruch Berg",
+      "attention": false,
+      "date": "2020-04-22T14:25:55.640Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Greg",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Srul",
+      "lastName": "Spira",
+      "id": 3
+    }
+  ]
+}
